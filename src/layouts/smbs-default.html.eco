@@ -104,7 +104,7 @@
 						<li typeof="sioc:Page" about="smbs">
 							<a href="javascript(void);" property="dc:title" class="dropdown-toggle" data-toggle="dropdown">FOCUS<b class="caret"></b></a>
 							 <ul class="dropdown-menu">
-                        <li typeof="sioc:Page" about="smbs"><a href="/smbs/log-analytics" property="dc:title">Log Analytics</a></li>
+                        <li typeof="sioc:Page" about="smbs"><a href="/betabulls/smbs/log-analytics" property="dc:title">Log Analytics</a></li>
                         <li><a href="resume-matching">Resume Matching</a></li>
                         <li><a href="internet-of-things">Internet Of Things (IOT)</a></li>
                         </ul>
