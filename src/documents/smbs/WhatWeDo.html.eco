@@ -1,0 +1,90 @@
+---
+title: What We Do
+layout: smbs-default
+class: betabulls-enterprise-about
+entPageOrder: 2
+script:
+style:
+url : /smbs/WhatWeDo
+---
+<span class="betabulls-enterprise-services">
+				<div id="headerwrap" class="pure-g-r headerwrap-main services">
+	<div class="pure-u-1 center">
+		<div class="banner-txt">
+			<h1>Strategy + Technical Expertise + Lean Implementation = YOUR SUCCESS</h1>
+			<h4></h4>
+		</div>
+	</div><!-- pure-u-1-->
+</div><!-- headerwrap -->
+<div style="width: 100%; margin: 0px auto; padding: 0px 0px 0px 0px; text-align: center;">
+	<h2 style=" font-weight:500;" align="center">What we Do ?</h2>
+	<hr>
+</div>
+	<div class="pure-g-r w">
+	<div class="pure-u-1">
+		<a name="WhatWeDo" id="WhatWeDo"></a>
+
+		<a class="card-link" href="/smbs/application-support-maintenance">
+		<div class="pure-u-1-4 bb-aspect1 center">
+			<i class="material-icons large light-blue">vertical_align_top</i>
+			<div class="card-hr"> </div>
+			<h4>Application Support & Maintenance</h4>
+			<p> I want to lower costs and improve quality of my applications.</p>
+			<div class="card-sub-title">Need application support?</div>
+			<div class="case-study-label">Learn More</div>
+		</div></a><!-- bb-aspect1 pure-u-1-4 -->
+
+		<a class="card-link" href="/smbs/custom-software-development">
+		<div class="pure-u-1-4 bb-aspect1 center">
+			<i class="material-icons large light-blue">subtitles</i>
+			<div class="card-hr"> </div>
+			<h4>Custom Software Development</h4>
+			<p>I have a great IDEA and need help with custom software development.</p>
+			<div class="card-sub-title"> Need a developer or whole team?</div>
+			<div class="case-study-label">Learn More</div>
+		</div></a><!-- bb-aspect1 pure-u-1-4 -->
+
+		<a class="card-link" href="/smbs/mobile-enablement">
+		<div class="pure-u-1-4 bb-aspect1 center">
+			<i class="material-icons large light-blue">devices</i>
+			<div class="card-hr"> </div>
+			<h4>Mobile Enablement</h4>
+			<p>I want to extent my applications and engage user on mobile devices.</p>
+			<div class="card-sub-title">Need to engage users on mobile?</div>
+			<div class="case-study-label">Learn More</div>
+		</div></a><!-- bb-aspect1 pure-u-1-4 -->
+
+		<a class="card-link" href="/smbs/search-information-discovery">
+		<div class="pure-u-1-4 bb-aspect1 center">
+			<i class="material-icons large light-blue">linear_scale</i>
+			<div class="card-hr"> </div>
+			<h4>Search and Information Discovery</h4>
+			<p>I have piles of unstructured data and want to discover value.</p>
+			<div class="card-sub-title">Need to discover things among piles of data?</div>
+			<div class="case-study-label">Learn More</div>
+		</div></a><!-- bb-aspect1 pure-u-1-4 -->
+
+		<a class="card-link" href="/smbs/big-data-analytics">
+		<div class="pure-u-1-4 bb-aspect1 center">
+			<i class="material-icons large light-blue">group_work</i>
+			<div class="card-hr"> </div>
+			<h4>Big Data Analytics</h4>
+			<p>I want to make smarter decisions with Big Data Analytics. </p>
+			<div class="card-sub-title">Need insights from your big data?</div>
+			<div class="case-study-label">Learn More</div>
+		</div></a><!-- bb-aspect1 pure-u-1-4 -->
+
+		<a class="card-link" href="/smbs/software-testing">
+		<div class="pure-u-1-4 bb-aspect1 center">
+			<i class="material-icons large light-blue">cloud_done</i>
+			<div class="card-hr"> </div>
+				<h4>Software Testing</h4>
+			<p>I want to eliminate suprises for my users with high quality testing.</p>
+			<div class="card-sub-title">Need best experience without surprises?</div>
+			<div class="case-study-label">Learn More</div>
+		</div></a><!-- bb-aspect1 pure-u-1-4 -->
+
+	</div><!-- .pure-u-1 .w -->
+</div><!-- .pure-g-r .w -->
+</div>
+</span>
